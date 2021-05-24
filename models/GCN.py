@@ -15,6 +15,7 @@ class Graph():
         - uniform: Uniform Labeling
         - distance: Distance Partitioning
         - spatial: Spatial Configuration
+        - what are you talking about
 
         layout (string): must be one of the follow candidates
         - openpose: Is consists of 18 joints.
